@@ -1,5 +1,9 @@
-taipy==3.1
+taipy==3.1.0
+openai==1.3.7
+gunicorn==22.0.0
 yfinance==0.1.96
 holidays==0.24
 prophet==1.1.2
 plotly
+llama-index
+finnhub-python
